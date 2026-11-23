@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="337" viewBox="0 0 720 337" role="img" aria-labelledby="name desc">
+  <title id="name">反馈驱动的三类记忆更新</title>
+  <desc id="desc">多次经历可以沉淀为稳定联结；校准改变既有估计，重塑改变情境划分。跨事件保持与迁移用于辨别持久变化。</desc>
+  <rect width="720" height="337" fill="#FFFFFF" />
+  <text x="116" y="40" font-family="'Songti SC','Noto Serif CJK SC','SimSun',serif" font-size="25" font-weight="700" text-anchor="middle" fill="#1E2939">沉淀</text>
+  <text x="360" y="40" font-family="'Songti SC','Noto Serif CJK SC','SimSun',serif" font-size="25" font-weight="700" text-anchor="middle" fill="#1E2939">校准</text>
+  <text x="605" y="40" font-family="'Songti SC','Noto Serif CJK SC','SimSun',serif" font-size="25" font-weight="700" text-anchor="middle" fill="#1E2939">重塑</text>
+  <path d="M 236.00,20.00 236.00,172.00" fill="none" stroke="#D1D8E3" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 482.00,20.00 482.00,172.00" fill="none" stroke="#D1D8E3" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 44.00,72.00 C 78.00,72.00 88.00,98.00 128.00,98.00" fill="none" stroke="#98A5BA" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" />
+  <circle cx="41" cy="72" r="4.2" fill="#FFFFFF" stroke="#344F98" stroke-width="1.6" />
+  <path d="M 44.00,98.00 C 78.00,98.00 88.00,98.00 128.00,98.00" fill="none" stroke="#344F98" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" />
+  <circle cx="41" cy="98" r="4.2" fill="#FFFFFF" stroke="#344F98" stroke-width="1.6" />
+  <path d="M 44.00,125.00 C 78.00,125.00 88.00,98.00 128.00,98.00" fill="none" stroke="#98A5BA" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" />
+  <circle cx="41" cy="125" r="4.2" fill="#FFFFFF" stroke="#344F98" stroke-width="1.6" />
+  <path d="M 126.00,98.00 195.00,98.00" fill="none" stroke="#E9EDF7" stroke-width="9" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 126.00,98.00 195.00,98.00" fill="none" stroke="#344F98" stroke-width="3.1" stroke-linejoin="round" stroke-linecap="round" />
+  <circle cx="195" cy="98" r="6" fill="#344F98" stroke="none" stroke-width="1.6" />
+  <text x="116" y="161" font-family="'Hiragino Sans GB','Noto Sans CJK SC','Microsoft YaHei',sans-serif" font-size="17" font-weight="400" text-anchor="middle" fill="#1E2939">重复经历留下稳定联结</text>
+  <path d="M 280.00,109.00 440.00,109.00" fill="none" stroke="#D1D8E3" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 285.00,105.00 285.00,113.00" fill="none" stroke="#98A5BA" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 309.00,105.00 309.00,113.00" fill="none" stroke="#98A5BA" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 333.00,105.00 333.00,113.00" fill="none" stroke="#98A5BA" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 357.00,105.00 357.00,113.00" fill="none" stroke="#98A5BA" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 381.00,105.00 381.00,113.00" fill="none" stroke="#98A5BA" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 405.00,105.00 405.00,113.00" fill="none" stroke="#98A5BA" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 429.00,105.00 429.00,113.00" fill="none" stroke="#98A5BA" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 310.00,100.00 C 325.00,64.00 386.00,64.00 405.00,99.00" fill="none" stroke="#925433" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 405.00,99.00 403.96,89.33 397.45,92.86 Z" fill="#925433" stroke="none" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+  <circle cx="309" cy="109" r="5.5" fill="#FFFFFF" stroke="#52606F" stroke-width="1.7" />
+  <circle cx="405" cy="109" r="6" fill="#344F98" stroke="none" stroke-width="1.6" />
+  <text x="360" y="161" font-family="'Hiragino Sans GB','Noto Sans CJK SC','Microsoft YaHei',sans-serif" font-size="17" font-weight="400" text-anchor="middle" fill="#1E2939">保留情境，修正原估计</text>
+  <path d="M 512.00,98.00 541.00,98.00" fill="none" stroke="#344F98" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+  <circle cx="510" cy="98" r="5.5" fill="#344F98" stroke="none" stroke-width="1.6" />
+  <path d="M 541.00,98.00 C 570.00,98.00 573.00,74.00 609.00,74.00" fill="none" stroke="#344F98" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round" />
+  <circle cx="610" cy="74" r="4.8" fill="#FFFFFF" stroke="#344F98" stroke-width="1.8" />
+  <text x="625" y="80" font-family="'Hiragino Sans GB','Noto Sans CJK SC','Microsoft YaHei',sans-serif" font-size="16" font-weight="400" text-anchor="start" fill="#52606F">高峰</text>
+  <path d="M 541.00,98.00 C 570.00,98.00 573.00,122.00 609.00,122.00" fill="none" stroke="#344F98" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round" />
+  <circle cx="610" cy="122" r="4.8" fill="#FFFFFF" stroke="#344F98" stroke-width="1.8" />
+  <text x="625" y="128" font-family="'Hiragino Sans GB','Noto Sans CJK SC','Microsoft YaHei',sans-serif" font-size="16" font-weight="400" text-anchor="start" fill="#52606F">非高峰</text>
+  <text x="602" y="161" font-family="'Hiragino Sans GB','Noto Sans CJK SC','Microsoft YaHei',sans-serif" font-size="17" font-weight="400" text-anchor="middle" fill="#1E2939">按线索重划情境边界</text>
+  <path d="M 24.00,186.00 696.00,186.00" fill="none" stroke="#D1D8E3" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" />
+  <text x="27" y="220" font-family="'Hiragino Sans GB','Noto Sans CJK SC','Microsoft YaHei',sans-serif" font-size="19" font-weight="700" text-anchor="start" fill="#1E2939">跨事件检验</text>
+  <text x="252" y="219" font-family="'Hiragino Sans GB','Noto Sans CJK SC','Microsoft YaHei',sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#52606F">本次任务</text>
+  <text x="393" y="219" font-family="'Hiragino Sans GB','Noto Sans CJK SC','Microsoft YaHei',sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#52606F">撤除提示</text>
+  <text x="605" y="219" font-family="'Hiragino Sans GB','Noto Sans CJK SC','Microsoft YaHei',sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#52606F">新情境</text>
+  <path d="M 393.00,231.00 393.00,307.00" fill="none" stroke="#98A5BA" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="butt" stroke-dasharray="4 4" />
+  <text x="28" y="258" font-family="'Hiragino Sans GB','Noto Sans CJK SC','Microsoft YaHei',sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#52606F">当次提示</text>
+  <circle cx="248" cy="251" r="4.2" fill="#52606F" stroke="none" stroke-width="1.6" />
+  <path d="M 252.00,251.00 384.00,251.00" fill="none" stroke="#98A5BA" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 384.00,245.00 384.00,257.00" fill="none" stroke="#52606F" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+  <text x="605" y="258" font-family="'Hiragino Sans GB','Noto Sans CJK SC','Microsoft YaHei',sans-serif" font-size="17" font-weight="400" text-anchor="middle" fill="#52606F">提示效应消失</text>
+  <text x="28" y="299" font-family="'Hiragino Sans GB','Noto Sans CJK SC','Microsoft YaHei',sans-serif" font-size="18" font-weight="700" text-anchor="start" fill="#344F98">持久联结</text>
+  <circle cx="248" cy="292" r="5" fill="#344F98" stroke="none" stroke-width="1.6" />
+  <path d="M 252.00,292.00 510.00,292.00" fill="none" stroke="#344F98" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 510.00,292.00 501.00,288.30 501.00,295.70 Z" fill="#344F98" stroke="none" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+  <text x="605" y="299" font-family="'Hiragino Sans GB','Noto Sans CJK SC','Microsoft YaHei',sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#344F98">仍能独立运用</text>
+  <text x="27" y="328" font-family="'Hiragino Sans GB','Noto Sans CJK SC','Microsoft YaHei',sans-serif" font-size="16" font-weight="400" text-anchor="start" fill="#52606F">授权或规范改变是另一种变化，需单独归因。</text>
+</svg>

@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+title: "Generative Memory Theory: How Agents Construct Memory in Meta-Space to Generate Intelligent Behavior"
+message: "If you use this work, please cite it as below."
+type: article
+authors:
+  - family-names: Wang
+    given-names: Yang
+    email: naodonglab@163.com
+license: CC-BY-4.0
+date-released: "2026-11-23"
+keywords:
+  - generative memory
+  - meta-space
+  - agent
+  - memory construction
+  - contextual articulation
+  - acquisition
+  - artificial general intelligence
+repository-code: "https://github.com/mnespace/mnespace"
+abstract: >-
+  Generative Memory Theory (GMT) proposes that the substance guiding
+  intelligent behavior is generative memory rather than stored knowledge.
+  Meta-space is the functional setting in which an agent continually
+  constructs an associative memory structure from interaction with digital
+  and physical environments, organized to guide perception, imagination,
+  and action. The paper presents a functional model M = (G, F), the
+  activation-selection-expression pipeline, construction dynamics
+  (sedimentation, calibration, restructuring), contextual articulation,
+  acquisition, eight falsifiable propositions with matched-control
+  experiments, a reference architecture, and an evaluation design. The AGI
+  claim is a necessity hypothesis, not a sufficiency claim.

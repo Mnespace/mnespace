@@ -1,0 +1,17 @@
+# Office lock / temp files
+~$*
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Editor
+.vscode/
+.idea/
+*.swp
