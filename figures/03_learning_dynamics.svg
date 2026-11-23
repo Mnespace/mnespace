@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="404" viewBox="0 0 900 404" role="img" aria-labelledby="name desc">
+  <title id="name">Three kinds of feedback-driven memory update</title>
+  <desc id="desc">Repeated experience sediments stable links; calibration revises an estimate within a situation; restructuring redraws situation boundaries. Cross-event persistence distinguishes durable change.</desc>
+  <rect width="900" height="404" fill="#FFFFFF" />
+  <text x="450" y="40" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-weight="700" text-anchor="middle" fill="#1E2939">Three kinds of feedback-driven memory update</text>
+  <text x="145" y="85" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-weight="700" text-anchor="middle" fill="#1E2939">Sedimentation</text>
+  <text x="450" y="85" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-weight="700" text-anchor="middle" fill="#1E2939">Calibration</text>
+  <text x="756" y="85" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-weight="700" text-anchor="middle" fill="#1E2939">Restructuring</text>
+  <path d="M 295.00,62.00 295.00,225.00" fill="none" stroke="#D1D8E3" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 602.00,62.00 602.00,225.00" fill="none" stroke="#D1D8E3" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 55.00,117.00 C 98.00,117.00 110.00,143.00 160.00,143.00" fill="none" stroke="#98A5BA" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" />
+  <circle cx="52" cy="117" r="4.2" fill="#FFFFFF" stroke="#344F98" stroke-width="1.6" />
+  <path d="M 55.00,143.00 C 98.00,143.00 110.00,143.00 160.00,143.00" fill="none" stroke="#344F98" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" />
+  <circle cx="52" cy="143" r="4.2" fill="#FFFFFF" stroke="#344F98" stroke-width="1.6" />
+  <path d="M 55.00,170.00 C 98.00,170.00 110.00,143.00 160.00,143.00" fill="none" stroke="#98A5BA" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" />
+  <circle cx="52" cy="170" r="4.2" fill="#FFFFFF" stroke="#344F98" stroke-width="1.6" />
+  <path d="M 158.00,143.00 244.00,143.00" fill="none" stroke="#E9EDF7" stroke-width="9" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 158.00,143.00 244.00,143.00" fill="none" stroke="#344F98" stroke-width="3.1" stroke-linejoin="round" stroke-linecap="round" />
+  <circle cx="244" cy="143" r="6" fill="#344F98" stroke="none" stroke-width="1.6" />
+  <text x="148" y="210" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" text-anchor="middle" fill="#1E2939">Repeated experience leaves stable links</text>
+  <path d="M 350.00,154.00 550.00,154.00" fill="none" stroke="#D1D8E3" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 356.00,150.00 356.00,158.00" fill="none" stroke="#98A5BA" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 386.00,150.00 386.00,158.00" fill="none" stroke="#98A5BA" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 416.00,150.00 416.00,158.00" fill="none" stroke="#98A5BA" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 446.00,150.00 446.00,158.00" fill="none" stroke="#98A5BA" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 476.00,150.00 476.00,158.00" fill="none" stroke="#98A5BA" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 506.00,150.00 506.00,158.00" fill="none" stroke="#98A5BA" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 536.00,150.00 536.00,158.00" fill="none" stroke="#98A5BA" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 387.00,145.00 C 406.00,109.00 482.00,109.00 506.00,144.00" fill="none" stroke="#925433" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 506.00,144.00 503.96,134.48 497.86,138.67 Z" fill="#925433" stroke="none" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+  <circle cx="386" cy="154" r="5.5" fill="#FFFFFF" stroke="#52606F" stroke-width="1.7" />
+  <circle cx="506" cy="154" r="6" fill="#344F98" stroke="none" stroke-width="1.6" />
+  <text x="450" y="210" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" text-anchor="middle" fill="#1E2939">Keep situation, revise estimate</text>
+  <path d="M 640.00,143.00 676.00,143.00" fill="none" stroke="#344F98" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+  <circle cx="638" cy="143" r="5.5" fill="#344F98" stroke="none" stroke-width="1.6" />
+  <path d="M 676.00,143.00 C 712.00,143.00 716.00,119.00 761.00,119.00" fill="none" stroke="#344F98" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round" />
+  <circle cx="762" cy="119" r="4.8" fill="#FFFFFF" stroke="#344F98" stroke-width="1.8" />
+  <text x="778" y="125" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="start" fill="#52606F">Rush hour</text>
+  <path d="M 676.00,143.00 C 712.00,143.00 716.00,167.00 761.00,167.00" fill="none" stroke="#344F98" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round" />
+  <circle cx="762" cy="167" r="4.8" fill="#FFFFFF" stroke="#344F98" stroke-width="1.8" />
+  <text x="778" y="173" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="start" fill="#52606F">Off-peak</text>
+  <text x="750" y="210" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" text-anchor="middle" fill="#1E2939">Redraw situation boundaries by cue</text>
+  <path d="M 30.00,240.00 870.00,240.00" fill="none" stroke="#D1D8E3" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" />
+  <text x="34" y="274" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" text-anchor="start" fill="#1E2939">Cross-event test</text>
+  <text x="315" y="273" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#52606F">This task</text>
+  <text x="491" y="273" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#52606F">Prompt removed</text>
+  <text x="756" y="273" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#52606F">New situation</text>
+  <path d="M 491.00,285.00 491.00,361.00" fill="none" stroke="#98A5BA" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="butt" stroke-dasharray="4 4" />
+  <text x="35" y="312" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#52606F">Current prompt</text>
+  <circle cx="310" cy="305" r="4.2" fill="#52606F" stroke="none" stroke-width="1.6" />
+  <path d="M 315.00,305.00 480.00,305.00" fill="none" stroke="#98A5BA" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 480.00,299.00 480.00,311.00" fill="none" stroke="#52606F" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+  <text x="756" y="312" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="middle" fill="#52606F">Prompt effect fades</text>
+  <text x="35" y="353" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" text-anchor="start" fill="#344F98">Persistent links</text>
+  <circle cx="310" cy="346" r="5" fill="#344F98" stroke="none" stroke-width="1.6" />
+  <path d="M 315.00,346.00 630.00,346.00" fill="none" stroke="#344F98" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 630.00,346.00 621.00,342.30 621.00,349.70 Z" fill="#344F98" stroke="none" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+  <text x="760" y="353" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#344F98">Still usable independently</text>
+  <text x="34" y="388" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" text-anchor="start" fill="#52606F">Authorization or norm changes are a different kind of change, attributed separately.</text>
+</svg>

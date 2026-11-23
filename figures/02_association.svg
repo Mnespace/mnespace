@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360" role="img" aria-labelledby="name desc">
+  <title id="name">Associative activation and the disclosure boundary of information combinations</title>
+  <desc id="desc">Route A activates the slower rush-hour expectation; the off-peak link stays stored. An organizational rule can place a boundary on an otherwise public date-location combination.</desc>
+  <rect width="900" height="360" fill="#FFFFFF" />
+  <text x="450" y="38" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-weight="700" text-anchor="middle" fill="#1E2939">Associative activation and the disclosure boundary of information combinations</text>
+  <text x="98" y="120" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-weight="700" text-anchor="middle" fill="#1E2939">Route A</text>
+  <text x="98" y="183" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#52606F">Route cue</text>
+  <path d="M 106.00,145.00 C 226.00,145.00 224.00,103.00 372.00,103.00" fill="none" stroke="#E9EDF7" stroke-width="8" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 106.00,145.00 C 226.00,145.00 224.00,103.00 372.00,103.00" fill="none" stroke="#344F98" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 106.00,145.00 C 226.00,145.00 224.00,188.00 372.00,188.00" fill="none" stroke="#98A5BA" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="butt" stroke-dasharray="6 4" />
+  <path d="M 372.00,103.00 639.00,103.00" fill="none" stroke="#344F98" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 372.00,188.00 639.00,188.00" fill="none" stroke="#98A5BA" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="butt" stroke-dasharray="6 4" />
+  <circle cx="99" cy="145" r="8" fill="#344F98" stroke="none" stroke-width="1.6" />
+  <circle cx="372" cy="103" r="6" fill="#344F98" stroke="none" stroke-width="1.6" />
+  <circle cx="372" cy="188" r="6" fill="#FFFFFF" stroke="#98A5BA" stroke-width="1.8" />
+  <circle cx="643" cy="103" r="4.5" fill="#344F98" stroke="none" stroke-width="1.6" />
+  <circle cx="643" cy="188" r="4.5" fill="#FFFFFF" stroke="#98A5BA" stroke-width="1.6" />
+  <text x="372" y="86" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" text-anchor="middle" fill="#1E2939">Rush hour</text>
+  <text x="372" y="171" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400" text-anchor="middle" fill="#52606F">Off-peak</text>
+  <text x="520" y="89" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#344F98">Currently active</text>
+  <text x="520" y="174" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#52606F">Stored, inactive</text>
+  <text x="672" y="108" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="start" fill="#344F98">~</text>
+  <text x="695" y="114" font-family="Georgia, 'Times New Roman', serif" font-size="36" font-weight="700" text-anchor="start" fill="#344F98">22</text>
+  <text x="748" y="109" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#344F98">min</text>
+  <text x="672" y="193" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="start" fill="#52606F">~</text>
+  <text x="695" y="199" font-family="Georgia, 'Times New Roman', serif" font-size="36" font-weight="700" text-anchor="start" fill="#52606F">10</text>
+  <text x="748" y="194" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#52606F">min</text>
+  <path d="M 30.00,225.00 870.00,225.00" fill="none" stroke="#D1D8E3" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" />
+  <text x="34" y="258" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" text-anchor="start" fill="#925433">Organizational special case</text>
+  <circle cx="45" cy="285" r="4" fill="#FFFFFF" stroke="#925433" stroke-width="1.5" />
+  <text x="62" y="290" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" text-anchor="start" fill="#1E2939">Date</text>
+  <text x="158" y="290" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="start" fill="#52606F">Public</text>
+  <circle cx="45" cy="321" r="4" fill="#FFFFFF" stroke="#925433" stroke-width="1.5" />
+  <text x="62" y="326" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" text-anchor="start" fill="#1E2939">Location</text>
+  <text x="158" y="326" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="start" fill="#52606F">Public</text>
+  <path d="M 215.00,284.00 C 260.00,284.00 250.00,305.00 290.00,305.00" fill="none" stroke="#925433" stroke-width="1.7" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 215.00,320.00 C 260.00,320.00 250.00,305.00 290.00,305.00" fill="none" stroke="#925433" stroke-width="1.7" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 290.00,305.00 360.00,305.00" fill="none" stroke="#925433" stroke-width="1.7" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 360.00,305.00 351.00,301.30 351.00,308.70 Z" fill="#925433" stroke="none" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+  <text x="385" y="299" font-family="Georgia, 'Times New Roman', serif" font-size="21" font-weight="700" text-anchor="start" fill="#1E2939">Full schedule of an unpublished event</text>
+  <text x="385" y="330" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" text-anchor="start" fill="#52606F">If an applicable rule restricts this combination, it is internal-only.</text>
+</svg>

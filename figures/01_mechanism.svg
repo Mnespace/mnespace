@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="370" viewBox="0 0 900 370" role="img" aria-labelledby="name desc">
+  <title id="name">Action feedback and cross-agent acquisition in meta-space</title>
+  <desc id="desc">Current cues enter the meta-space; execution outcomes feed back into memory. An articulated artifact is not a copy of competence: the recipient rebuilds links from own experience.</desc>
+  <rect width="900" height="370" fill="#FFFFFF" />
+  <text x="450" y="40" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-weight="700" text-anchor="middle" fill="#1E2939">Action feedback and cross-agent acquisition in meta-space</text>
+  <text x="100" y="78" font-family="Georgia, 'Times New Roman', serif" font-size="21" font-weight="700" text-anchor="middle" fill="#1E2939">Current cues</text>
+  <path d="M 60.00,105.00 C 91.00,105.00 108.00,130.00 139.00,130.00" fill="none" stroke="#98A5BA" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+  <circle cx="58" cy="105" r="4.3" fill="#FFFFFF" stroke="#344F98" stroke-width="1.6" />
+  <path d="M 60.00,130.00 C 91.00,130.00 108.00,130.00 139.00,130.00" fill="none" stroke="#98A5BA" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+  <circle cx="58" cy="130" r="4.3" fill="#FFFFFF" stroke="#344F98" stroke-width="1.6" />
+  <path d="M 60.00,155.00 C 91.00,155.00 108.00,130.00 139.00,130.00" fill="none" stroke="#98A5BA" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+  <circle cx="58" cy="155" r="4.3" fill="#FFFFFF" stroke="#344F98" stroke-width="1.6" />
+  <path d="M 139.00,130.00 275.00,130.00" fill="none" stroke="#344F98" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 275.00,130.00 266.00,126.30 266.00,133.70 Z" fill="#344F98" stroke="none" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+  <text x="100" y="191" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#52606F">Observation &amp; task</text>
+  <path d="M 287.23,125.75 C 290.52,114.92 299.69,95.09 316.84,86.10 C 334.00,77.11 365.02,74.72 390.16,71.80 C 415.31,68.88 443.03,65.73 467.71,68.55 C 492.38,71.37 522.70,79.38 538.21,88.70 C 553.72,98.02 560.06,113.08 560.77,124.45 C 561.48,135.82 554.90,146.98 542.44,156.95 C 529.99,166.92 507.90,178.94 486.04,184.25 C 464.19,189.56 436.22,190.32 411.31,188.80 C 386.40,187.28 355.62,181.43 336.58,175.15 C 317.54,168.87 305.33,159.33 297.10,151.10 C 288.88,142.87 283.94,136.58 287.23,125.75 Z" fill="#F4F6FB" stroke="#AEBBD7" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 309.11,126.27 C 311.88,117.17 319.58,100.52 333.99,92.96 C 348.40,85.41 374.45,83.41 395.57,80.95 C 416.70,78.50 439.99,75.86 460.72,78.22 C 481.44,80.59 506.91,87.32 519.94,95.15 C 532.96,102.97 538.29,115.62 538.89,125.18 C 539.48,134.73 533.95,144.11 523.49,152.48 C 513.03,160.85 494.47,170.95 476.11,175.41 C 457.76,179.87 434.26,180.51 413.34,179.23 C 392.42,177.96 366.56,173.04 350.57,167.77 C 334.58,162.49 324.31,154.48 317.40,147.56 C 310.50,140.65 306.35,135.37 309.11,126.27 Z" fill="#EBEFF8" stroke="#B5C2DE" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 331.00,126.79 C 333.23,119.42 339.47,105.94 351.13,99.83 C 362.80,93.71 383.89,92.09 400.99,90.10 C 418.09,88.11 436.94,85.98 453.72,87.89 C 470.50,89.81 491.12,95.26 501.66,101.60 C 512.21,107.93 516.52,118.17 517.00,125.91 C 517.48,133.64 513.01,141.23 504.54,148.01 C 496.07,154.78 481.05,162.96 466.19,166.57 C 451.33,170.18 432.31,170.70 415.37,169.66 C 398.43,168.63 377.50,164.65 364.55,160.38 C 351.61,156.11 343.30,149.63 337.71,144.03 C 332.11,138.43 328.76,134.16 331.00,126.79 Z" fill="#E4EAF6" stroke="#BAC7E2" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" />
+  <text x="424" y="123" font-family="Georgia, 'Times New Roman', serif" font-size="29" font-weight="700" text-anchor="middle" fill="#1E2939">Meta-space</text>
+  <text x="424" y="153" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" text-anchor="middle" fill="#344F98">M = (G, F)</text>
+  <text x="410" y="214" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#52606F">G: associative links   F: functional organization</text>
+  <text x="774" y="78" font-family="Georgia, 'Times New Roman', serif" font-size="21" font-weight="700" text-anchor="middle" fill="#1E2939">Action selection</text>
+  <path d="M 568.00,130.00 661.00,130.00" fill="none" stroke="#344F98" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 661.00,130.00 C 701.00,130.00 711.00,105.00 775.00,105.00" fill="none" stroke="#98A5BA" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="butt" stroke-dasharray="5 4" />
+  <path d="M 661.00,130.00 C 701.00,130.00 716.00,153.00 775.00,153.00" fill="none" stroke="#344F98" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+  <circle cx="661" cy="130" r="3.8" fill="#344F98" stroke="none" stroke-width="1.6" />
+  <circle cx="780" cy="105" r="5" fill="#FFFFFF" stroke="#98A5BA" stroke-width="1.6" />
+  <circle cx="780" cy="153" r="5.7" fill="#344F98" stroke="none" stroke-width="1.6" />
+  <text x="797" y="112" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="start" fill="#52606F">Candidate</text>
+  <text x="797" y="160" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" text-anchor="start" fill="#1E2939">Execute</text>
+  <path d="M 780.00,164.00 C 778.00,214.00 611.00,235.00 512.00,183.00" fill="none" stroke="#925433" stroke-width="1.75" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 512.00,183.00 518.25,190.46 521.69,183.91 Z" fill="#925433" stroke="none" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+  <text x="688" y="199" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#925433">Outcome feedback</text>
+  <path d="M 30.00,240.00 870.00,240.00" fill="none" stroke="#D1D8E3" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 64.56,293.55 C 65.77,288.72 69.15,279.87 75.48,275.86 C 81.81,271.85 93.25,270.79 102.52,269.48 C 111.79,268.18 122.02,266.77 131.12,268.03 C 140.22,269.29 151.40,272.86 157.12,277.02 C 162.84,281.18 165.18,287.90 165.44,292.97 C 165.70,298.05 163.27,303.02 158.68,307.47 C 154.09,311.92 145.94,317.28 137.88,319.65 C 129.82,322.02 119.51,322.36 110.32,321.68 C 101.13,321.00 89.78,318.39 82.76,315.59 C 75.74,312.79 71.23,308.53 68.20,304.86 C 65.17,301.19 63.35,298.38 64.56,293.55 Z" fill="#F4F6FB" stroke="#AEBBD7" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 72.63,293.78 C 73.65,289.72 76.49,282.29 81.80,278.92 C 87.12,275.55 96.73,274.66 104.52,273.56 C 112.31,272.47 120.90,271.29 128.54,272.35 C 136.18,273.40 145.58,276.41 150.38,279.90 C 155.19,283.39 157.15,289.03 157.37,293.29 C 157.59,297.56 155.55,301.74 151.69,305.47 C 147.83,309.21 140.99,313.72 134.22,315.71 C 127.45,317.70 118.79,317.98 111.07,317.41 C 103.35,316.84 93.82,314.65 87.92,312.30 C 82.02,309.94 78.24,306.37 75.69,303.28 C 73.14,300.20 71.61,297.84 72.63,293.78 Z" fill="#EBEFF8" stroke="#B5C2DE" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 80.70,294.01 C 81.53,290.73 83.82,284.71 88.13,281.98 C 92.43,279.26 100.21,278.53 106.51,277.65 C 112.82,276.76 119.77,275.81 125.96,276.66 C 132.15,277.51 139.75,279.95 143.64,282.77 C 147.53,285.60 149.12,290.17 149.30,293.62 C 149.48,297.07 147.83,300.46 144.70,303.48 C 141.58,306.50 136.04,310.15 130.56,311.76 C 125.08,313.37 118.06,313.60 111.82,313.14 C 105.57,312.68 97.85,310.91 93.08,309.00 C 88.30,307.09 85.24,304.20 83.18,301.70 C 81.11,299.21 79.88,297.30 80.70,294.01 Z" fill="#E4EAF6" stroke="#BAC7E2" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 96.28,298.48 117.08,287.75 135.28,298.77" fill="none" stroke="#344F98" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+  <circle cx="96.28" cy="298.48" r="2.8" fill="#344F98" stroke="none" stroke-width="1.6" />
+  <circle cx="117.08" cy="287.75" r="2.8" fill="#344F98" stroke="none" stroke-width="1.6" />
+  <circle cx="135.28" cy="298.77" r="2.8" fill="#344F98" stroke="none" stroke-width="1.6" />
+  <path d="M 734.56,293.55 C 735.77,288.72 739.15,279.87 745.48,275.86 C 751.81,271.85 763.25,270.79 772.52,269.48 C 781.79,268.18 792.02,266.77 801.12,268.03 C 810.22,269.29 821.40,272.86 827.12,277.02 C 832.84,281.18 835.18,287.90 835.44,292.97 C 835.70,298.05 833.27,303.02 828.68,307.47 C 824.09,311.92 815.94,317.28 807.88,319.65 C 799.82,322.02 789.51,322.36 780.32,321.68 C 771.13,321.00 759.78,318.39 752.76,315.59 C 745.74,312.79 741.23,308.53 738.20,304.86 C 735.17,301.19 733.35,298.38 734.56,293.55 Z" fill="#F4F6FB" stroke="#AEBBD7" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 742.63,293.78 C 743.65,289.72 746.49,282.29 751.80,278.92 C 757.12,275.55 766.73,274.66 774.52,273.56 C 782.31,272.47 790.90,271.29 798.54,272.35 C 806.18,273.40 815.58,276.41 820.38,279.90 C 825.19,283.39 827.15,289.03 827.37,293.29 C 827.59,297.56 825.55,301.74 821.69,305.47 C 817.83,309.21 810.99,313.72 804.22,315.71 C 797.45,317.70 788.79,317.98 781.07,317.41 C 773.35,316.84 763.82,314.65 757.92,312.30 C 752.02,309.94 748.24,306.37 745.69,303.28 C 743.14,300.20 741.61,297.84 742.63,293.78 Z" fill="#EBEFF8" stroke="#B5C2DE" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 750.70,294.01 C 751.53,290.73 753.82,284.71 758.13,281.98 C 762.43,279.26 770.21,278.53 776.51,277.65 C 782.82,276.76 789.77,275.81 795.96,276.66 C 802.15,277.51 809.75,279.95 813.64,282.77 C 817.53,285.60 819.12,290.17 819.30,293.62 C 819.48,297.07 817.83,300.46 814.70,303.48 C 811.58,306.50 806.04,310.15 800.56,311.76 C 795.08,313.37 788.06,313.60 781.82,313.14 C 775.57,312.68 767.85,310.91 763.08,309.00 C 758.30,307.09 755.24,304.20 753.18,301.70 C 751.11,299.21 749.88,297.30 750.70,294.01 Z" fill="#E4EAF6" stroke="#BAC7E2" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 767.32,291.23 785.00,299.35 805.28,301.38" fill="none" stroke="#52606F" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 785.00,299.35 800.60,287.46" fill="none" stroke="#344F98" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+  <circle cx="767.32" cy="291.23" r="2.6" fill="#FFFFFF" stroke="#52606F" stroke-width="1.2" />
+  <circle cx="805.28" cy="301.38" r="2.6" fill="#FFFFFF" stroke="#52606F" stroke-width="1.2" />
+  <circle cx="785" cy="299.35" r="2.8" fill="#344F98" stroke="none" stroke-width="1.6" />
+  <circle cx="800.6" cy="287.46" r="2.8" fill="#344F98" stroke="none" stroke-width="1.6" />
+  <path d="M 431.00,273.00 455.00,273.00 470.00,288.00 470.00,316.00 431.00,316.00 Z" fill="#F4F6FB" stroke="#344F98" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 455.00,273.00 455.00,288.00 470.00,288.00" fill="none" stroke="#344F98" stroke-width="1.3" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 438.00,296.00 459.00,296.00" fill="none" stroke="#344F98" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 438.00,303.00 463.00,303.00" fill="none" stroke="#344F98" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 438.00,310.00 454.00,310.00" fill="none" stroke="#344F98" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 180.00,295.00 415.00,295.00" fill="none" stroke="#52606F" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 415.00,295.00 406.00,291.30 406.00,298.70 Z" fill="#52606F" stroke="none" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 485.00,295.00 720.00,295.00" fill="none" stroke="#52606F" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 720.00,295.00 711.00,291.30 711.00,298.70 Z" fill="#52606F" stroke="none" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+  <text x="297" y="282" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#52606F">Articulate to listener's need</text>
+  <text x="602" y="282" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#52606F">Acquire via own experience</text>
+  <text x="115" y="347" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#1E2939">Agent memory</text>
+  <text x="450" y="347" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#1E2939">Artifact K</text>
+  <text x="785" y="347" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#1E2939">Recipient memory</text>
+</svg>
